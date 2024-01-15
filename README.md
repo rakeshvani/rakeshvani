@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rakeshranjanparsa@gmail.com**
 
-<!-- - 📄 Know about my experiences [resume] -->
+- 📄 Know about my experiences [resume] 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
