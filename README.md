@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rakesh-ranjan-143vny430/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakesh ranjan" height="30" width="40" /></a>
-<a href="https://leetcode.com/vinikesh/" target="blank"><img width="48" height="48" src="https://img.icons8.com/color/48/GeeksforGeeks.png" alt="GeeksforGeeks"/></a>
+<a href="https://leetcode.com/vinikesh/" target="blank"><img width="48" height="48" src="<a  href="https://icons8.com/icon/AbQBhN9v62Ob/geeksforgeeks">GeeksforGeeks</a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3> 
