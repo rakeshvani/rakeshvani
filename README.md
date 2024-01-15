@@ -73,6 +73,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">AI/ML Tools:</h3>
+<p align="left"> 
 
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
   
