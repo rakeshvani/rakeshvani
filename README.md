@@ -1,9 +1,9 @@
 <!--
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Rakesh Ranjan</h1>
-<h3 align="center">A passionate ML Engineer from India</h3>
+<h3 align="center">A Passionate ML Engineer from Delhi-NCR, dedicated to solving complex problems through machine learning innovations and pushing the boundaries of AI.r</h3>
 
-- 🔭 I’m currently working on **VaaaN Infra Pvt Ltd**
+- 🔭 I’m currently working in **VaaaN Infra Pvt Ltd**
 
 -👯 I’m looking to collaborate on ...
   
@@ -46,14 +46,12 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm rakesh</h1>
-<h3 align="center">A passionate ML Engineer from Delhi-NCR</h3>
+<h3 align="center">Passionate ML Engineer from Delhi-NCR, dedicated to solving complex problems through machine learning innovations and pushing the boundaries of AI.</h3>
 
 
-- 🔭 I’m currently working on **VaaaN Infra Pvt Ltd**
+- 🔭 I’m currently working in **VaaaN Infra Pvt Ltd**
   
-- 💬 Ask me about 
-
-- 📫 you can reach me **rakeshranjanparsa@gmail.com**
+- 📫 You can reach me out at **rakeshranjanparsa@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshvani&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshvani" /> </p>
 
