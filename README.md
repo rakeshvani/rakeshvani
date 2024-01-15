@@ -58,10 +58,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rakesh-ranjan-143vny430/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakesh ranjan" height="30" width="40" /></a>
-<a href="https://leetcode.com/vinikesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinikesh" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/rakesh-ranjan-143vny430/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakesh ranjan" height="30" width="40" /></a>
-<a href="https://leetcode.com/vinikesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinikesh" height="30" width="40" /></a>
+  <a href="https://leetcode.com/vinikesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinikesh" height="30" width="40" /></a>
   <a href="https://auth.geeksforgeeks.org/user/rakesh_ranjan"><img align="center" src="<img  src="https://img.icons8.com/color/96/GeeksforGeeks.png" alt="GeeksforGeeks" width="30" height="30"/></a>
 </p>
 
