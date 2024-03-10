@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <h3 align="center">Passionate ML Engineer from Delhi-NCR, dedicated to solving complex problems through machine learning innovations and pushing the boundaries of AI.</h3>
 
 
-- 🔭 I’m currently working in **VaaaN Infra Pvt Ltd**
+- 🔭 I’m currently working for **VaaaN Infra Pvt Ltd**
   
 - 📫 You can reach me out at **rakeshranjanparsa@gmail.com**
 
