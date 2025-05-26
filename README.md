@@ -15,7 +15,8 @@ I am Rakesh Ranjan, an AI Engineer with a strong passion for building intelligen
 #### 🧰 Tools & Platforms
 `Docker` `ONNX` `TensorRT` `NVIDIA Jetson` `DeepStream` `FastAPI` `Flask`
 #### ☁️ Cloud & MLOps
-`AWS` `Azure` `MLflow`  `GitHub Actions` 
+`AWS` `Azure` `MLflow`  `GitHub Actions`
+
 ---
 ### 🔗 Connect with me
 
