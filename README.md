@@ -2,7 +2,7 @@
 
 # Rakesh Ranjan
 
-I am Rakesh Ranjan, An AI Engineer with a strong passion for building intelligent systems, solving large-scale real-world problems, and exploring the intersection of machine learning, computer vision, and distributed systems.
+I am Rakesh Ranjan, an AI Engineer with a strong passion for building intelligent systems, solving large-scale real-world problems, and exploring the intersection of machine learning, computer vision, and distributed systems.
 
 ---
 ### 🧠 Skills & Tools
