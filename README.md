@@ -2,9 +2,7 @@
 
 # Rakesh Ranjan
 
-Always ready for battle with invisible monsters.
-
-I am Rakesh Ranjan, an AI Engineer with a strong passion for building intelligent systems, solving large-scale real-world problems, and exploring the intersection of machine learning, computer vision, and distributed systems. Always ready for battle with invisible monsters. 
+I am Rakesh Ranjan, an AI Engineer with a strong passion for building intelligent systems, solving large-scale real-world problems, and exploring the intersection of machine learning, computer vision, and distributed systems and  Always ready for battle with invisible monsters. 
 
 ---
 ### 🧠 Skills & Tools
