@@ -30,7 +30,7 @@ I am Rakesh Ranjan, an AI Engineer with a strong passion for building intelligen
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rakesh-ranjan-143vny430/)](https://www.linkedin.com/in/rakesh-ranjan-143vny430/)
 [![GitHub Followers](https://img.shields.io/github/followers/rakeshvani?label=follow&style=social)](https://github.com/rakeshvani)
-[![Instagram](https://img.shields.io/badge/-Instagram-222222?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/rranjan_01)](https://instagram.com/rranjan_01)
+[![Instagram](https://img.shields.io/badge/-Instagram-222222?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rranjan_01)
 [![Email](https://img.shields.io/badge/-Email-222222?style=flat-square&logo=gmail&logoColor=white)](mailto:rakeshranjanparsa@gmail.com)
 
 ---
