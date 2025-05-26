@@ -4,11 +4,8 @@
 
 I am Rakesh Ranjan, an AI Engineer with a strong passion for building intelligent systems, solving large-scale real-world problems, and exploring the intersection of machine learning, computer vision, and distributed systems.
 
-- 🔭 Currently working on: Real-time Multi-Camera Face Recognition System (FRS)
-- 🌱 Actively learning: ONNX, DeepStream, TensorRT, MLOps
-- 💬 Ask me about: AI/ML, Deep Learning, Face Recognition, Jetson Devices, Optimization
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rakesh-ranjan-143vny430/)
-- ⚡ Fun fact: I love solving challenging system-level problems using AI.
+
 
 ---
 
