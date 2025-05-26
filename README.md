@@ -4,28 +4,19 @@
 
 I am Rakesh Ranjan, an AI Engineer with a strong passion for building intelligent systems, solving large-scale real-world problems, and exploring the intersection of machine learning, computer vision, and distributed systems.
 
-
 ---
-
 ### 🧠 Skills & Tools
-
 #### 👨‍💻 Programming & Scripting
-`Python` `Java` `Shell Scripting`
-
+`Python` `Java` 
 #### 🧪 Machine Learning & Deep Learning
 `TensorFlow` `PyTorch` `scikit-learn` `Keras`
-
 #### 🧠 Recognition & Vision
-`RetinaFace` `MTCNN` `ArcFace` `OpenCV` `YOLO` `DeepSORT` `
-
+`RetinaFace` `MTCNN` `ArcFace` `OpenCV` `YOLO` `DeepSORT` 
 #### 🧰 Tools & Platforms
 `Docker` `ONNX` `TensorRT` `NVIDIA Jetson` `DeepStream` `FastAPI` `Flask`
-
 #### ☁️ Cloud & MLOps
-`AWS` `Azure` `MLflow`  `GitHub Actions` `
-
+`AWS` `Azure` `MLflow`  `GitHub Actions` 
 ---
-
 ### 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rakesh-ranjan-143vny430/)](https://www.linkedin.com/in/rakesh-ranjan-143vny430/)
