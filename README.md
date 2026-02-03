@@ -2,9 +2,7 @@
 
 # Rakesh Ranjan
 
-# I am Rakesh Ranjan, an AI Engineer with a strong passion for building intelligent systems, solving large-scale real-world problems, and exploring the intersection of machine learning, computer vision, and distributed systems.
-
-I've around 4 years of industry experience working on real-time multimedia and computer vision systems on embedded platforms.
+I am Rakesh Ranjan, an AI Engineer with a strong passion for building intelligent systems, solving large-scale real-world problems, and exploring the intersection of machine learning, computer vision, and distributed systems. I've around 4 years of industry experience working on real-time multimedia and computer vision systems on embedded platforms.
 
 In my current role, I design and deploy multi-camera, real-time video analytics pipelines using GStreamer/DeepStream-based frameworks, handling RTSP ingestion, frame preprocessing, inference, and optimized deployment on embedded Linux devices like NVIDIA Jetson.
 
@@ -39,6 +37,4 @@ My experience involves taking vision-based multimedia systems from R&D to produc
 <!-- GitHub stats and top languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshvani&layout=compact&hide=html" />
 
-<!--
-_Last updated: May 2023_
--->
+
