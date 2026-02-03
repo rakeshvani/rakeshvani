@@ -34,7 +34,4 @@ My experience involves taking vision-based multimedia systems from R&D to produc
 
 ---
 
-<!-- GitHub stats and top languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshvani&layout=compact&hide=html" />
-
 
