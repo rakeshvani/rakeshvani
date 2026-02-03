@@ -2,7 +2,16 @@
 
 # Rakesh Ranjan
 
-I am Rakesh Ranjan, an AI Engineer with a strong passion for building intelligent systems, solving large-scale real-world problems, and exploring the intersection of machine learning, computer vision, and distributed systems.
+# I am Rakesh Ranjan, an AI Engineer with a strong passion for building intelligent systems, solving large-scale real-world problems, and exploring the intersection of machine learning, computer vision, and distributed systems.
+
+I've around 4 years of industry experience working on real-time multimedia and computer vision systems on embedded platforms.
+
+In my current role, I design and deploy multi-camera, real-time video analytics pipelines using GStreamer/DeepStream-based frameworks, handling RTSP ingestion, frame preprocessing, inference, and optimized deployment on embedded Linux devices like NVIDIA Jetson.
+
+I’ve worked on image processing and computer vision algorithms, including image classification, object detection, face recognition, and OCR, and I focus strongly on system-level performance optimization, such as reducing end-to-end latency, improving throughput, and minimizing memory movement using optimized inference runtimes and hardware accelerators.
+
+My experience involves taking vision-based multimedia systems from R&D to production while operating under real-time, power, and hardware constraints, 
+# which closely aligns with this role at Qualcomm.
 
 ---
 ### 🧠 Skills & Tools
